@@ -1,1 +1,3 @@
-src/about/
+# i want to eliminate all the files in the about folder, but then i want to retain the index.js.
+
+src/hello.txt
